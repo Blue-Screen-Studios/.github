@@ -6,7 +6,7 @@ We are a group of young developers who primarily make Mobile and PC games!
 <div>
     <p align="center">
         <a href="https://bluescreenstudios.net">
-            <img src="https://media.discordapp.net/attachments/913890186012811355/928336821874733086/Blue_Screen_Studios_Logo.gif" alt="Blue Screen Studios Logo"/>
+            <img src="https://media.discordapp.net/attachments/930123204087914497/930123419310256198/Blue_Screen_Studios_Logo.gif" alt="Blue Screen Studios Logo"/>
         </a>
     </p>
 </div>
