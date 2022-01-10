@@ -3,9 +3,18 @@
 We are a group of young developers who primarily make Mobile and PC games!
 -->
 
+<div>
+    <p align="center">
+        <a href="https://bluescreenstudios.net">
+            <img src="" alt="Blue Screen Studios Logo"/>
+        </a>
+    </p>
+</div>
+    
 ---
 
-<p align="center">
+<div>
+  <p align="center">
     <b> Join our Discord Server! </b>
   </p>
 
